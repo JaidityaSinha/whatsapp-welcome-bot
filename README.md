@@ -108,7 +108,6 @@ whatsapp-welcome-bot/
 ## Notes
 
 * This project uses LocalAuth to persist WhatsApp sessions.
-* Do not commit `.wwebjs_auth` to GitHub.
 * Group names in the example configuration are placeholders and should be replaced with your own.
 
 ## Disclaimer
